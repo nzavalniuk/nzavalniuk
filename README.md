@@ -12,6 +12,7 @@ I am a **Full Stack Developer** specializing in **Next.js**, passionate about bu
 ![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/Sanity-%23F03E2F?style=for-the-badge&logo=sanity&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23fff)
@@ -19,7 +20,6 @@ I am a **Full Stack Developer** specializing in **Next.js**, passionate about bu
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/React%20Query-%23FF4154?style=for-the-badge&logo=reactquery&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990?style=for-the-badge&logo=reacthookform&logoColor=%23fff)
-![Static Badge](https://img.shields.io/badge/Sanity-%23F03E2F?style=for-the-badge&logo=sanity&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Stripe-%23008CDD?style=for-the-badge&logo=stripe&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=%23fff)
 
