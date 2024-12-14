@@ -28,8 +28,8 @@ I am a **Full Stack Developer** specializing in **Next.js**, passionate about bu
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=%23fff)](mailto:nazarzaval99@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=%23fff)](https://t.me/Nazar3840)
 
----
-[![](https://visitcount.itsvg.in/api?id=NazarZavalniuk&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<img align="right" alt="Profile Views" src="https://visitcount.itsvg.in/api?id=Nazar-Zavalniuk&icon=0&color=1"/>
 
 
 
