@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4c2ab298-d0d7-49ad-9681-c448264b5c27)
+
 👋 Hi, my name is Nazar!
 ---
 
