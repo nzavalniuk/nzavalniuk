@@ -32,9 +32,6 @@ I am a **Full Stack Developer** specializing in **Next.js**, passionate about bu
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=%23fff)](https://t.me/Nazar3840)
 
 
-<img align="right" alt="Profile Views" src="https://visitcount.itsvg.in/api?id=Nazar-Zavalniuk&icon=0&color=1"/>
-
-
 
 
 
