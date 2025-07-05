@@ -11,6 +11,7 @@ I am a **Full Stack Developer** specializing in **Next.js**, passionate about bu
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/NextJS-%2318181b?style=for-the-badge&logo=nextdotjs&logoColor=%23fff)
+![Static Badge](https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestdotjs&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=%23fff)
 ![Static Badge](https://img.shields.io/badge/SASS-%23CC6699?style=for-the-badge&logo=sass&logoColor=%23fff)
