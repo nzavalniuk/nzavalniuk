@@ -29,7 +29,7 @@ I am a **Full Stack Developer** specializing in **Next.js**, passionate about bu
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=%23fff)](https://www.linkedin.com/in/nzavalniuk/) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=%23fff)](mailto:nazarzaval99@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=%23fff)](https://t.me/Nazar3840)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=flat&logo=telegram&logoColor=%23fff)](https://t.me/nzavalniuk)
 
 
 
