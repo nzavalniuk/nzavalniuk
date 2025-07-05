@@ -3,7 +3,7 @@
 👋 Hi, my name is Nazar!
 ---
 
-I am a **Full Stack Developer** specializing in **Next.js**, passionate about building user-friendly software applications. With excellent problem-solving skills and a collaborative mindset, I thrive in team environments. I am eager to contribute to impactful product development while continuing to enhance and refine my technical expertise.
+I am a **Full Stack Developer** specializing in **React**, passionate about building user-friendly software applications. With excellent problem-solving skills and a collaborative mindset, I thrive in team environments. I am eager to contribute to impactful product development while continuing to enhance and refine my technical expertise.
 
 💻 Tech Stack
 ---
